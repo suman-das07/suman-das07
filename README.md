@@ -39,14 +39,27 @@
 
 <hr>
 
+###
+
+<br clear="both">
+
 <div data-importer="socials" align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="100" height="48" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="100" height="48" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="100" height="48" alt="linkedin logo"  />
+  <a href="https://www.instagram.com/_suman_das_07_/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="145" height="48" alt="instagram logo"  />
+  </a>
+  <a href="sumanda0708@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="145" height="48" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/suman-das-in/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="145" height="48" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
 
+<br clear="both">
+
+<br clear="both">
 <hr>
 
 <br clear="both">
