@@ -1,16 +1,107 @@
-## Hi there 👋
+<br clear="both">
 
-<!--
-**suman-das07/suman-das07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div data-importer="image" align="center">
+  <img data-importer="image" height="436" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+</div>
 
-Here are some ideas to get you started:
+###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h4 data-importer="text" align="left">```text<br>┌─────────────────────────────────────────────────────────────┐<br>│                   SYSTEM DIAGNOSTICS                        │<br>├─────────────────────────────────────────────────────────────┤<br>│ USER            : SUMAN_DAS                                │<br>│ ROLE            : SOFTWARE DEVELOPER                       │<br>│ MODE            : LEARNING                                 │<br>│ UPTIME          : COMMIT • BUILD • IMPROVE                 │<br>├─────────────────────────────────────────────────────────────┤<br>│ MODULES                                                  │<br>│                                                           │<br>│ [████████████░░░░] JavaScript                            │<br>│ [████████░░░░░░░░] Java                                  │<br>│ [██████░░░░░░░░░░] DSA                                   │<br>│ [████░░░░░░░░░░░░] Flutter                               │<br>│ [██████████░░░░░░] Web Development                       │<br>├─────────────────────────────────────────────────────────────┤<br>│ PROJECTS                                                  │<br>│                                                           │<br>│ ✓ HackLatency.io                                          │<br>│ ✓ Invoice Banao                                           │<br>│ ✓ More in development...                                  │<br>├─────────────────────────────────────────────────────────────┤<br>│ CURRENT OBJECTIVE                                         │<br>│ Become a Software Engineer by building real-world products │<br>└─────────────────────────────────────────────────────────────┘<br>```</h4>
+
+###
+
+<br clear="both">
+
+<h1 data-importer="text" align="center">Hi 👋! My name is Suman Das</h1>
+
+###
+
+<br clear="both">
+
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/suman-das07/suman-das07/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=suman-das07&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5" height="150" alt="streak graph" /> <br>
+  <img src="https://raw.githubusercontent.com/suman-das07/suman-das07/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true" height="188" alt="languages graph" /> <br>
+  <img src="https://raw.githubusercontent.com/suman-das07/suman-das07/activity-graph-output/activity-graph.svg?custom_title=My%20Contribution%20Graph&area=true&radius=10&theme=chartreuse-dark" height="223" alt="activity-graph graph" /> <br>
+  <img src="https://raw.githubusercontent.com/suman-das07/suman-das07/trophy-output/trophy.svg?margin-h=12&theme=tokyonight&margin-w=12&column=4&row=2&no-bg=true&no-frame=true" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<p data-importer="text" align="left">👋 About Me<br><br>I'm a BCA student and aspiring Software Developer with a strong interest in building practical, user-focused web applications using modern JavaScript.<br><br>I enjoy transforming ideas into polished products while focusing on clean code, intuitive user experiences, and problem-solving. My current learning journey revolves around Data Structures & Algorithms, JavaScript, frontend development, and gradually expanding into backend development.<br><br>I use GitHub as a public record of my growth—every project represents something I've learned, improved, or challenged myself to build. My goal is to continuously improve my engineering skills and contribute to impactful software in the future.<br><br>Currently focused on<br><br>* JavaScript & Modern Web Development.<br>* Data Structures & Algorithms.<br>* Building real-world portfolio projects.<br>* Writing clean, maintainable code.<br>* Continuous learning and improvement.</p>
+
+###
+
+<br clear="both">
+
+<div data-importer="socials" align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="100" height="48" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="100" height="48" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="100" height="48" alt="linkedin logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div data-importer="techs" align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="57" alt="javascript logo"  />
+  <img width="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="57" alt="typescript logo"  />
+  <img width="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="57" alt="react logo"  />
+  <img width="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="57" alt="html5 logo"  />
+  <img width="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="57" alt="css3 logo"  />
+  <img width="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="57" alt="python logo"  />
+  <img width="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="57" alt="csharp logo"  />
+  <img width="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="57" alt="canva logo"  />
+  <img width="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="57" alt="dart logo"  />
+  <img width="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="57" alt="figma logo"  />
+  <img width="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="57" alt="flutter logo"  />
+  <img width="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="57" alt="git logo"  />
+  <img width="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="57" alt="github logo"  />
+  <img width="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="57" alt="java logo"  />
+  <img width="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="57" alt="notion logo"  />
+  <img width="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="57" alt="php logo"  />
+  <img width="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="57" alt="vscode logo"  />
+  <img width="38" />
+  <img src="https://skillicons.dev/icons?i=md" height="57" alt="markdown logo"  />
+  <img width="38" />
+  <img src="https://skillicons.dev/icons?i=netlify" height="57" alt="netlify logo"  />
+  <img width="38" />
+  <img src="https://skillicons.dev/icons?i=postman" height="57" alt="postman logo"  />
+  <img width="38" />
+  <img src="https://skillicons.dev/icons?i=wordpress" height="57" alt="wordpress logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/suman-das07/suman-das07/snake-output/snake.svg" alt="Snake animation" />
+
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suman-das07/suman-das07/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suman-das07/suman-das07/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/suman-das07/suman-das07/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
