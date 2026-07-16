@@ -37,151 +37,33 @@
 
 <br clear="both"> -->
 
-<h2 align="center">🚀 Featured Projects</h2>
 
-<table>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🔐 HackLatency
-
-A client-side password security analyzer that estimates theoretical brute-force crack time while keeping every calculation entirely within the browser.
-
-**Highlights**
-- 🔒 100% Client-side Privacy
-- ⚡ Real-time Password Analysis
-- 📊 Security Score & Crack Time Estimation
-- 🎨 Cybersecurity Dashboard
-
-**Built with**
-
-<img src="https://skillicons.dev/icons?i=html,css,javascript" />
-
-<p>&nbsp;</p>
-
-<p align="center">
-<a href="https://hacklatencyio.netlify.app/">
-<img src="https://img.shields.io/badge/Live-Demo-00ff88?style=for-the-badge&logo=netlify&logoColor=white">
-</a>
-
-<a href="https://github.com/suman-das07/hack-latency.io">
-<img src="https://img.shields.io/badge/Source-Code-181717?style=for-the-badge&logo=github">
-</a>
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🧾 Invoice Banao
-
-A lightweight invoice generator that helps freelancers and small businesses create professional invoices quickly.
-
-**Highlights**
-- 📄 Dynamic Invoice Generation
-- ⚡ Instant Calculations
-- 📱 Responsive Design
-- 💼 Freelancer Friendly
-
-**Built with**
-
-<img src="https://skillicons.dev/icons?i=html,css,javascript" />
-<p>&nbsp;</p>
-<p align="center">
-<a href="https://invoicebanaoapp.netlify.app/">
-<img src="https://img.shields.io/badge/Live-Demo-00ff88?style=for-the-badge&logo=netlify&logoColor=white">
-</a>
-
-<a href="https://github.com/suman-das07/invoice-banao">
-<img src="https://img.shields.io/badge/Source-Code-181717?style=for-the-badge&logo=github">
-</a>
-</p>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 💰 Spend Reality
-
-A modern personal finance tracker designed to help users monitor spending, manage budgets, and gain better financial insights.
-
-**Highlights**
-- 💸 Expense Tracking
-- 📊 Spending Analytics
-- 📅 Budget Management
-- 📈 Clean Dashboard UI
-
-**Built with**
-
-<img src="https://skillicons.dev/icons?i=html,css,javascript" />
-
-<p>&nbsp;</p>
-
-<p align="center">
-<a href="https://spend-reality.netlify.app/">
-<img src="https://img.shields.io/badge/Live-Demo-00ff88?style=for-the-badge&logo=netlify&logoColor=white">
-</a>
-
-<a href="https://github.com/suman-das07/Spend-Reality">
-<img src="https://img.shields.io/badge/Source-Code-181717?style=for-the-badge&logo=github">
-</a>
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 💬 Flutter Chat Application
-
-A cross-platform real-time chat application built with Flutter, focused on responsive UI and seamless messaging.
-
-**Highlights**
-- 💬 Real-time Messaging
-- 📱 Cross-platform
-- 🔐 Authentication
-- 🎨 Modern Flutter UI
-
-**Built with**
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
-
-<p>&nbsp;</p>
-
-<p align="center">
-<!-- <a href="YOUR_DEMO_LINK">
-<img src="https://img.shields.io/badge/Live-Demo-00ff88?style=for-the-badge&logo=vercel&logoColor=white">
-</a> -->
-
-<a href="https://github.com/suman-das07/Chat-App">
-<img src="https://img.shields.io/badge/Source-Code-181717?style=for-the-badge&logo=github">
-</a>
-</p>
-
-</td>
-
-</tr>
-
-</table>
 
 <br clear="both">
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/suman-das07/suman-das07/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="170" alt="stats graph" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com?user=suman-das07&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5" height="170" alt="streak graph" /> <br>
-  <!-- <img src="https://raw.githubusercontent.com/suman-das07/suman-das07/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true" height="250" alt="languages graph" /> <br> -->
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/suman-das07/suman-das07/activity-graph-output/activity-graph.svg?custom_title=My%20Contribution%20Graph&area=true&radius=10&theme=chartreuse-dark" height="350" alt="activity-graph graph" /> <br>
-  &nbsp;
-    &nbsp;
-  <img src="https://raw.githubusercontent.com/suman-das07/suman-das07/trophy-output/trophy.svg?margin-h=12&theme=tokyonight&margin-w=12&column=3&row=1&no-bg=true&no-frame=true" height="250" alt="trophy graph"  />
-</div>
+  <!-- Top Row: Stats and Streak side-by-side -->
+  <table border="0" cellpadding="3" cellspacing="3" style="border-collapse: collapse; border: none; background: transparent; margin-bottom: 20px;">
+    <tr>
+      <td style="border: none; padding-right: 30px;">
+        <img src="https://raw.githubusercontent.com/suman-das07/suman-das07/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="190" alt="stats graph" />
+      </td>
+      <td style="border: none;">
+        <img src="https://streak-stats.demolab.com?user=suman-das07&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5" height="190" alt="streak graph" />
+      </td>
+    </tr>
+  </table>
 
+  <!-- Middle Row: Activity Contribution Graph -->
+  <div style="margin-bottom: 20px;">
+    <img src="https://raw.githubusercontent.com/suman-das07/suman-das07/activity-graph-output/activity-graph.svg?custom_title=My%20Contribution%20Graph&area=true&radius=10&theme=chartreuse-dark" height="350" alt="activity-graph graph" />
+  </div>
+
+  <!-- Bottom Row: Trophies -->
+  <div>
+    <img src="https://raw.githubusercontent.com/suman-das07/suman-das07/trophy-output/trophy.svg?margin-h=12&theme=tokyonight&margin-w=12&column=3&row=1&no-bg=true&no-frame=true" height="250" alt="trophy graph" />
+  </div>
+</div>
 <hr>
 
 ###
