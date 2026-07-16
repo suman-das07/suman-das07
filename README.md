@@ -68,10 +68,10 @@
   <table border="0" cellpadding="3" cellspacing="3" style="border-collapse: collapse; border: none; background: transparent; margin-bottom: 20px;">
     <tr>
       <td style="border: none; padding-right: 30px;">
-        <img src="https://raw.githubusercontent.com/suman-das07/suman-das07/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="190" alt="stats graph" />
+        <img src="https://raw.githubusercontent.com/suman-das07/suman-das07/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false" height="190" alt="stats graph" />
       </td>
       <td style="border: none;">
-        <img src="https://streak-stats.demolab.com?user=suman-das07&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5" height="190" alt="streak graph" />
+        <img src="https://streak-stats.demolab.com?user=suman-das07&locale=en&mode=daily&theme=chartreuse-dark&hide_border=false&border_radius=5" height="190" alt="streak graph" />
       </td>
     </tr>
   </table>
