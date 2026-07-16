@@ -58,10 +58,10 @@
   <div style="margin-bottom: 20px;">
     <img src="https://raw.githubusercontent.com/suman-das07/suman-das07/activity-graph-output/activity-graph.svg?custom_title=My%20Contribution%20Graph&area=true&radius=10&theme=chartreuse-dark" height="350" alt="activity-graph graph" />
   </div>
-
+   &nbsp;
   <!-- Bottom Row: Trophies -->
   <div>
-    <img src="https://raw.githubusercontent.com/suman-das07/suman-das07/trophy-output/trophy.svg?margin-h=12&theme=tokyonight&margin-w=12&column=3&row=1&no-bg=true&no-frame=true" height="250" alt="trophy graph" />
+    <img src="https://raw.githubusercontent.com/suman-das07/suman-das07/trophy-output/trophy.svg?margin-h=12&theme=tokyonight&margin-w=18&column=5&row=2&no-bg=true&no-frame=true" height="250" alt="trophy graph" />
   </div>
 </div>
 <hr>
