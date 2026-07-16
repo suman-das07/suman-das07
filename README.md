@@ -36,9 +36,31 @@
 ###
 
 <br clear="both"> -->
+## 🛠️ Featured Repos
 
+<div align="center" style="display: block; margin: 50px auto; text-align: center;">
 
+  <!-- Button 1: HackLatency (Completed) -->
+  <a href="https://github.com/suman-das07/hack-latency.io" target="_blank" style="text-decoration: none; border: none; display: inline-block;">
+    <img src="https://img.shields.io/static/v1?label=&message=HackLatency&color=38D352&style=for-the-badge&logo=&logoColor=0d1117&labelColor=38D352" alt="HackLatency" height="42" style="border: 1px solid #2db844; border-radius: 8px; box-shadow: 2px 2px 5px #07090c, -2px -2px 5px #131922; padding: 1px;" />
+  </a>
 
+  <!-- Button 2: Invoice Banao (Completed) -->
+  <a href="https://github.com/suman-das07/invoice-banao" target="_blank" style="text-decoration: none; border: none; display: inline-block;">
+    <img src="https://img.shields.io/static/v1?label=&message=Invoice%20Banao&color=38D352&style=for-the-badge&logo=&logoColor=0d1117&labelColor=38D352" alt="Invoice Banao" height="42" style="border: 1px solid #2db844; border-radius: 8px; box-shadow: 2px 2px 5px #07090c, -2px -2px 5px #131922; padding: 1px;" />
+  </a>
+
+  <!-- Button 3: Spend Reality (Completed) -->
+  <a href="https://github.com/suman-das07/Spend-Reality" target="_blank" style="text-decoration: none; border: none; display: inline-block;">
+    <img src="https://img.shields.io/static/v1?label=&message=Spend%20Reality&color=38D352&style=for-the-badge&logo=&logoColor=0d1117&labelColor=38D352" alt="Spend Reality" height="42" style="border: 1px solid #2db844; border-radius: 8px; box-shadow: 2px 2px 5px #07090c, -2px -2px 5px #131922; padding: 1px;" />
+  </a>
+
+  <!-- Button 4: StockFlow -->
+  <a href="#" target="_blank" style="text-decoration: none; border: none; display: inline-block;">
+    <img src="https://img.shields.io/static/v1?label=&message=StockFlow&color=38D352&style=for-the-badge&logo=&logoColor=0d1117&labelColor=38D352" alt="StockFlow" height="42" style="border: 1px solid #2db844; border-radius: 8px; box-shadow: 2px 2px 5px #07090c, -2px -2px 5px #131922; padding: 1px;" />
+  </a>
+
+</div>
 <br clear="both">
 
 <div data-importer="stats" align="center">
