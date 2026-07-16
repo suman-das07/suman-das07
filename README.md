@@ -1,3 +1,13 @@
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suman-das07/suman-das07-update/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suman-das07/suman-das07-update/main/light.svg">
+  <img alt="Suman Das — Terminal Profile Card" src="https://raw.githubusercontent.com/suman-das07/suman-das07-update/main/dark.svg">
+</picture>
+
+</div>
+
 <br clear="both">
 
 <div data-importer="image" align="center">
