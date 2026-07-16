@@ -172,8 +172,8 @@ A cross-platform real-time chat application built with Flutter, focused on respo
 <br clear="both">
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/suman-das07/suman-das07/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="180" alt="stats graph" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com?user=suman-das07&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5" height="180" alt="streak graph" /> <br>
+  <img src="https://raw.githubusercontent.com/suman-das07/suman-das07/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="170" alt="stats graph" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://streak-stats.demolab.com?user=suman-das07&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5" height="170" alt="streak graph" /> <br>
   <!-- <img src="https://raw.githubusercontent.com/suman-das07/suman-das07/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true" height="250" alt="languages graph" /> <br> -->
   &nbsp;
   <img src="https://raw.githubusercontent.com/suman-das07/suman-das07/activity-graph-output/activity-graph.svg?custom_title=My%20Contribution%20Graph&area=true&radius=10&theme=chartreuse-dark" height="350" alt="activity-graph graph" /> <br>
