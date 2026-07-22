@@ -56,7 +56,7 @@
   </a>
 
   <!-- Button 4: StockFlow -->
-  <a href="#" target="_blank" style="text-decoration: none; border: none; display: inline-block;">
+  <a href="https://github.com/suman-das07/stock-guru" target="_blank" style="text-decoration: none; border: none; display: inline-block;">
     <img src="https://img.shields.io/static/v1?label=&message=StockFlow&color=38D352&style=for-the-badge&logo=&logoColor=0d1117&labelColor=38D352" alt="StockFlow" height="42" style="border: 1px solid #2db844; border-radius: 8px; box-shadow: 2px 2px 5px #07090c, -2px -2px 5px #131922; padding: 1px;" />
   </a>
 
